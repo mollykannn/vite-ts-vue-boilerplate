@@ -18,7 +18,7 @@
     "@typescript-eslint/eslint-plugin": "^5.52.0",
     "@typescript-eslint/parser": "^5.52.0",
     "@unocss/preset-attributify": "^0.49.7",
-    "@unocss/preset-wind": "^0.49.7",
+    "@unocss/preset-wind": "^0.52.7",
     "@vitejs/plugin-vue": "^4.0.0",
     "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
